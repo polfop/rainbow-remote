@@ -8,3 +8,4 @@ Violet is the seventh color of the rainbow.
 =======
 Indigo is the sixth color of the rainbow.
 >>>>>>> origin/main
+These are the colors of the rainbow.
